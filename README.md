@@ -19,7 +19,7 @@ If you have something exciting in mind, let’s connect and create something awe
 
 📫 How to Reach Me
 📧 Email: prashantrana422@gmail.com
-💬 LinkedIn: Prashant Rana
+💬 LinkedIn: https://www.linkedin.com/in/prashant-rana-29526a254
 🎮 Portfolio: (Coming Soon!)
 
 ⚡ Fun Fact
