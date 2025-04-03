@@ -1,6 +1,6 @@
 👋 Hi, I'm Prashant Rana!
 🎨👾 About Me
-I'm a passionate creator with interests spanning Drawing, Designing, 3D Modeling, 3D Animation, Coding, and Game Development and Java. I love bringing ideas to life, whether through digital art or interactive experiences.I leverage AI-assisted development to enhance productivity, optimize performance, and bring ideas to life more efficiently—because great code is a mix of creativity, logic, and the right tools.
+I'm a passionate creator with interests spanning Drawing, Designing, 3D Modeling, 3D Animation, Coding, Game Development and Java. I love bringing ideas to life, whether through digital art or interactive experiences.I leverage AI-assisted development to enhance productivity, optimize performance, and bring ideas to life more efficiently—because great code is a mix of creativity, logic, and the right tools.
 
 🚀 Currently Learning
 Apex – Exploring Salesforce development and expanding my coding skills in Trailhead.
