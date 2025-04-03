@@ -1,24 +1,28 @@
-👋 Hi, I'm Prashant Rana!
-🎨👾 About Me
-I'm a passionate creator with interests spanning Drawing, Designing, 3D Modeling, 3D Animation, Coding, Game Development and Java. I love bringing ideas to life, whether through digital art or interactive experiences.I leverage AI-assisted development to enhance productivity, optimize performance, and bring ideas to life more efficiently—because great code is a mix of creativity, logic, and the right tools.
+👋 Hi, I'm Prashant Rana! 🎨👾
+
+About Me
+I'm a passionate creator with a diverse skill set spanning Drawing, Designing, 3D Modeling, 3D Animation, Coding, Game Development, and Java. I thrive on bringing ideas to life—whether through visually stunning digital art, immersive game worlds, or well-optimized code.
+
+I constantly seek new ways to improve and innovate, balancing creativity, logic, and efficiency. To push boundaries, I leverage AI-assisted development to streamline workflows, optimize performance, and enhance productivity—because great code is a mix of the right tools and endless curiosity.
 
 🚀 Currently Learning
-Apex – Exploring Salesforce development and expanding my coding skills in Trailhead.
-
-Blender – Leveling up my 3D modeling and animation as a hobby.
+🔹 Apex & Salesforce Development – Exploring Trailhead to deepen my expertise in the Salesforce ecosystem.
+🔹 Blender – Leveling up my 3D modeling and animation as a hobby, refining my artistic and technical skills.
 
 🤝 Looking to Collaborate
-Open to exciting projects related to game development, 3D art, or Salesforce development. If you have something interesting in mind, let’s connect!
+I'm open to exciting projects in:
+🎮 Game Development – Whether it's gameplay mechanics, AI, or UI/UX, I'm up for the challenge.
+🎨 3D Art & Animation – Creating assets, environments, or animations.
+☁️ Salesforce Development – Expanding my expertise in Apex and Salesforce solutions.
+
+If you have something exciting in mind, let’s connect and create something awesome! 🚀
 
 📫 How to Reach Me
-📧 Email: prashantrana422@gmail.com 
-💬 LinkedIn: https://www.linkedin.com/in/prashant-rana-29526a254
-🎮 Portfolio: --------------------
+📧 Email: prashantrana422@gmail.com
+💬 LinkedIn: Prashant Rana
+🎮 Portfolio: (Coming Soon!)
 
 ⚡ Fun Fact
-⚙️ Perfectionist Mode: My projects are never finished—they just reach temporary stopping points. 🚀
-<!---
-Prashant-Rana42/Prashant-Rana42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Thinking I used AI to write this README? Well… you’re absolutely right. 😉
+⚙️ Perfectionist Mode: My projects are never truly "finished"—they just reach temporary stopping points before I find another way to optimize them. 🚀
+
+💡 Thinking I used AI to write this README? Well… you’re absolutely right! But hey, efficiency is key, and creativity is all mine. 😉
