@@ -1,6 +1,5 @@
 👋 Hi, I'm Prashant Rana! 🎨👾
 
-About Me
 I'm a passionate creator with a diverse skill set spanning Drawing, Designing, 3D Modeling, 3D Animation, Coding, Game Development, and Java. I thrive on bringing ideas to life—whether through visually stunning digital art, immersive game worlds, or well-optimized code.
 
 I constantly seek new ways to improve and innovate, balancing creativity, logic, and efficiency. To push boundaries, I leverage AI-assisted development to streamline workflows, optimize performance, and enhance productivity—because great code is a mix of the right tools and endless curiosity.
