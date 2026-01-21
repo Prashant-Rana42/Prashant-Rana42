@@ -9,7 +9,3 @@ If you have something exciting in mind, let’s connect and create something awe
 📫 How to Reach Me
 📧 Email: prashantrana422@gmail.com
 💬 LinkedIn: https://www.linkedin.com/in/prashant-rana-29526a254
-
-⚡ Fun Fact
-⚙️ Perfectionist Mode: My projects are never truly "finished"—they just reach temporary stopping points before I find another way to optimize them. 🚀
-
